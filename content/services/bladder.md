@@ -1,12 +1,12 @@
 ---
-title: 'Business Advisory'
+title: 'Bladder'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+icon: 'images/bladder.svg'
 featured: true
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Bladder'
+heroSubHeading: 'Incontinence an inconvenience? We can fix that.'
+heroBackground: 'images/bladder.svg'
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

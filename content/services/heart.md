@@ -1,12 +1,12 @@
 ---
-title: 'Mergers'
+title: 'Heart'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+icon: 'images/heart.svg'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Heart'
+heroSubHeading: "Valentine's day discounts available"
+heroBackground: 'images/heart.svg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

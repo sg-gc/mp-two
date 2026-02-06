@@ -1,16 +1,15 @@
 ---
-title: 'Accounting'
-date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
-draft: false
+title: 'Large intestine'
+date: 2018-11-28T15:14:54+10:00
+icon: 'images/large-intestine.svg'
 featured: true
-weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
-heroBackground: 'services/service1.jpg'
+draft: false
+heroHeading: 'Large intestine'
+heroSubHeading: "We don't even think it's gross."
+heroBackground: 'images/large-intestine.svg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
