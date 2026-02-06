@@ -1,3 +1,9 @@
+[build.environment]
+  DART_SASS_VERSION = "1.43.5"
+  GO_VERSION = "1.25.6"
+  HUGO_VERSION = "0.154.5"
+  
+
 [build]
   publish = "public"
   command = """\
@@ -9,11 +15,3 @@
     hugo --gc --minify --baseURL "${URL}"
     """
 
-[build.environment]
-  DART_SASS_VERSION = "1.97.3"
-  GO_VERSION = "1.25.6"
-  HUGO_VERSION = "0.155.0"
-  NODE_VERSION = "24.13.0"
-  TZ = "Europe/Oslo"
-  HUGO_THEME = "repo"
-  HUGO_BASEURL = "/"
